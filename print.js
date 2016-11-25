@@ -7,8 +7,9 @@ var print = {
 		return "Account balance: \n";
 	},
 	money: function () {
-		deadPres(getRandom(100, 1000000));
-	}
+		var green = deadPres(getRandom(100, 1000000));
+		return green;
+	},
 };
 
 module.exports = print;

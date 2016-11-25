@@ -1,0 +1,22 @@
+{
+  "name": "madness",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airwolff/module.git"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airwolff/module/issues"
+  },
+  "homepage": "https://github.com/airwolff/module#readme",
+  "description": ""
+}
